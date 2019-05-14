@@ -1,3 +1,3 @@
 # PCR-duplication
 
-The scripts used in https://byteofbio.com/archives/8.html
+The scripts used in my blog (archives/8.html).
