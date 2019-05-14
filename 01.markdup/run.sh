@@ -1,9 +1,5 @@
 #!/bin/bash
 
-# Author: Xiaofei Zeng
-# Email: xiaofei_zeng@whu.edu.cn
-# Created Time: 2019-05-09 23:25
-
 ln -s ../00.data/GCA_002507455.1_ASM250745v1_genomic.fna
 ln -s ../00.data/SRR8203406.sra
 pigz -p 8 SRR8203406_1.fastq

@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# Author: Xiaofei Zeng
-# Email: xiaofei_zeng@whu.edu.cn
-# Created Time: 2019-05-10 10:07
-
 from __future__ import print_function
 import sys
 import gzip
